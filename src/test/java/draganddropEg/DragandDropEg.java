@@ -29,8 +29,7 @@ public class DragandDropEg {
 	  WebElement source4=driver.findElement(By.xpath("//a[text()=' 5000']"));
 	  WebElement destination4=driver.findElement(By.xpath("//ol[@id='amt8']"));
 	  act.dragAndDrop(source4, destination4);
-	  act.perform();  
-
+act.perform();
   }
   @BeforeTest
   public void beforeTest() {

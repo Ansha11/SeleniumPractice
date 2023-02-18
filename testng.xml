@@ -3,8 +3,31 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+     <class name="testNGexamples.AnnotationEg"/>
+      <class name="testNgpgms.AssertionsHard1"/>
+      <class name="testNgpgms.AssertionSoftExcel"/>
+      <class name="testNgpgms.AssertionsHardEg1"/>
+      <class name="testNgpgms.RadiobuttonEg"/>
+      <class name="testNgpgms.RadiobuttonObsqura"/>
+      <class name="testNgpgms.AlertExample"/>
       <class name="testNGexamples.LoginPage"/>
+      <class name="testNgpgms.DropdownObsqura"/>
+      <class name="testNgpgms.AssertionSoft"/>
+      <class name="testNgpgms.SpacejetDropdown"/>
       <class name="testNGexamples.HomePage"/>
+      <class name="testNgpgms.NewTest"/>
+      <class name="testNGexamples.NewTest"/>
+      <class name="testNgpgms.RadiobuttonAssignmaent"/>
+      <class name="testNgpgms.AssertionHardExcel"/>
+      <class name="testNgpgms.AssertionGuruSite"/>
+      <class name="testNgpgms.CheckBoxObsqura"/>
+      <class name="testNgpgms.AlertObsqura"/>
+      <class name="testNgpgms.AssertionDemo2"/>
+      <class name="testNgpgms.AssertionAssignmentExcel"/>
+      <class name="testNgpgms.AssertionDemo1"/>
+      <class name="testNgpgms.AssertionsHard"/>
+      <class name="testNGexamples.CartPage"/>
+      <class name="testNgpgms.AssertionSoftEg1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

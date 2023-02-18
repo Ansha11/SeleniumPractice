@@ -6,18 +6,10 @@ import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
-public class HomePage {
-  @Test(groups= {"smoke"})
-  public void home() {
-	  System.out.println("Home");
-  }
-  
+public class CartPage {
   @Test
-  public void start() {
-	  System.out.println("Start");
-
+  public void cart() {
+	  
   }
 }
